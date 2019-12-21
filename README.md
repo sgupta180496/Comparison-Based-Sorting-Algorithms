@@ -1,4 +1,4 @@
-# Project 1: Comparison-based Sorting Algorithms
+# Comparison-based Sorting Algorithms
 ##### Implementing comparison-based sorting algorithms and observing their performance
 
 ## 1. Sorting Algorithms
